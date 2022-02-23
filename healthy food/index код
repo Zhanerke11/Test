@@ -1,0 +1,213 @@
+<!doctype>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Raleway:ital,wght@0,400;0,600;1,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css"
+        <title></title>
+    </head>
+    <body>
+        <!- -Header - ->
+        
+        
+        <header class="header">
+            <div class="container"> 
+            <div class="header__inner">
+                 <div class="header__logo">
+            <img src="img/logoooo.png" alt="">
+            <div/>
+             <nav class="nav">
+              <a class="nav__link"  href="#">Features</a>
+              <a class="nav__link"  href="#">Works</a>
+              <a class="nav__link"  href="#">Our Team</a>
+              <a class="nav__link"  href="#">Testimonials</a>
+              <a class="nav__link"  href="#">Download</a>
+            </nav>
+        </div>
+    </div>
+        </header>
+            
+            <! - -  INTRO - - >
+            
+            <div class="intro">
+                <div class="container">
+                    <div class="intro__inner"> </div>
+                    <h1 class="intro__title"> A blog to inspire a healthy lifestyle.</h1>
+                    <h2 class="intro__subtitle">Discover restaurants that deliver near you. </h2>
+                    <a class="btn btn--red" href="#">Find out more</a>
+                   
+                </div>
+        
+            </div>
+            
+            
+            <! - -Features - ->
+            <div class="container">
+                <div class="features">
+                    <div class="features__item">
+                        <img class="features__icon" src="img/1.1.png" alt="">
+                        <h4 class="features__title"> Helps Lose Weight</h4>
+                        <div class="features__text">Obesity and excess body weight are global health issues. Thankfully, healthy eating can help reduce this problem. Consuming more green vegetables, whole fruits, healthy fats (olive oil, fish oil, nuts, and seeds), lean protein (skinless chicken breast, fish, eggs, mushrooms, tofu, and lentils)</div>
+                        
+                        
+                        
+                    </div>
+                     <div class="features__item">
+                        <img class="features__icon" src="img/2.png" alt="">
+                        <h4 class="features__title"> Helps Manage Diabetes</h4>
+                        <div class="features__text">Type-2 diabetes affects millions of people worldwide, irrespective of age (5). Unhealthy eating habits, obesity, insulin resistance, and genetic factors may lead to diabetes type 2</div>
+                        
+                        
+                        
+                    </div>
+                    
+                     <div class="features__item">
+                        <img class="features__icon" src="img/3.png" alt="">
+                        <h4 class="features__title"> Improves Heart Health</h4>
+                        <div class="features__text">Excessive consumption of unhealthy foods, alcohol, and smoking leads to an unhealthy heart. The cholesterol and triglyceride levels rise and cause heart blockage, ultimately weakening the heart muscles. Eating healthily by including fresh green vegetables, fruits, fruit juices, and plant sources of protein in your diet, limiting the intake of meat, and avoiding junk food</div>
+                        
+                        
+                        
+                    </div>
+                    
+                     <div class="features__item">
+                        <img class="features__icon" src="img/4.png" alt="">
+                        <h4 class="features__title"> Decreases Cancer Risk</h4>
+                        <div class="features__text">Researchers have found that consuming organic and unprocessed foods is the best way to keep cancer at bay. There are certain foods that have nutrients that may inhibit cancer progression. These include berries, watermelon, broccoli, cabbage, tomato, garlic, turmeric, ginger, and leafy greens</div>
+                        
+                        
+                        
+                    </div>
+                    
+                     <div class="features__item">
+                        <img class="features__icon" src="img/5.png" alt="">
+                        <h4 class="features__title">  Increases Immunity</h4>
+                        <div class="features__text">A healthy immune system helps keep infectious diseases, autoimmune diseases, and the common flu at bay. It aids faster recovery and healing. Consume foods that are loaded with antioxidants, vitamins, and minerals.
+Eating healthy foods like blueberries, strawberries, oranges, grapefruit, leafy greens, carrot, tomato, cheese, milk, fatty fish, herbs, and spices help improve your immunity</div>
+                        
+                        
+                        
+                    </div>
+                
+                      <div class="features__item">
+                        <img class="features__icon" src="img/6.png" alt="">
+                        <h4 class="features__title"> Improves Skin Health</h4>
+                        <div class="features__text">Unhealthy oily junk food leads to breakouts and acne. The key to getting healthy skin is drinking water, green tea, and coconut water and eating fruits, vegetables, fatty fish, nuts, seeds, and whole grains</div>
+                        
+                        
+                        
+                  </div>
+                    
+                    
+                </div>
+            
+            </div>
+            
+            
+<!-- Works           -->
+            <div class="works">
+                <div class="works__item">
+                    <img class="works__photo" src="works/works1.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                
+                 <div class="works__item">
+                    <img class="works__photo" src="works/works%207.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                
+                 <div class="works__item">
+                    <img class="works__photo" src="works/works%208.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                 <div class="works__item">
+                    <img class="works__photo" src="works/works%202.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+            <div class="works__item">
+                    <img class="works__photo" src="works/works3.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                <div class="works__item">
+                    <img class="works__photo" src="works/works4.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                <div class="works__item">
+                    <img class="works__photo" src="works/works5.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                  <div class="works__item">
+                    <img class="works__photo" src="works/works%206.jpg" alt="">
+                    <div class="works__content">
+                        <div class="works__title"></div>
+                        <div class="works__text"></div>
+                    </div>
+                
+                </div>
+                  
+            </div>
+            
+            
+<!--Books            -->
+                <div class="books">
+                    <div class="container">
+                        <div class="books__inner">
+                            <div class="books__item">
+                                <img class  src="img/books/recipe1" alt="">
+                                
+                            
+                            </div>
+                        
+                        </div>
+                        
+                    
+                    </div>
+            
+            </div>
+            
+            
+               
+                    
+                     
+            
+                
+                 
+              
+               
+                
+               
+            
+            
+            
+            
+    </body>
+   
+</html>
